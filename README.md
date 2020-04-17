@@ -1,2 +1,2 @@
-# Vanishing-Pigs
-C-30
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
